@@ -1,4 +1,5 @@
 # Autoencoder-for-Light-Field
-Python implementation for Light field Autoencoder.
+Python implementation for Light field Autoencoder, it can be used to light field compression or coded aperture camera.
 
-Prerequisites
+# Prerequisites
+Tensorflow 1.4+
