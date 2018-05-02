@@ -1,5 +1,5 @@
 # ALF
-Python implementation for Light field Autoencoder, it can be used to light field compression or coded aperture camera.
+Python implementation for ALF.
 
 # Prerequisites
 * Tensorflow 1.4+
